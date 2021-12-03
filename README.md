@@ -1,5 +1,5 @@
 # Language Learning App
-Native Language Selection Screen with HTML and CSS.
+Language Selection Screen with HTML and CSS.
 
 ## Preview:
 
